@@ -5,7 +5,13 @@ This project uses grid and arraylist to implement a specific version of cellular
 The result of the simulation is a a graphic window that displays Conway's Game of Life.
 
 ## Final Result Showcase
-https://github.com/thanhhangphn/Conway-Game-of-Life/assets/119096071/42c14873-8f0f-4565-89e1-515dd5cf1cf1
+
+
+
+https://github.com/thanhhangphn/Conway-Game-of-Life/assets/119096071/f73c45b2-c7a9-4f5c-82f4-6ac2eebc2cc1
+
+
+
 ![CS231](https://github.com/thanhhangphn/Conway-Game-of-Life/assets/119096071/85fafa77-d6ef-4286-bb40-991038405316)
 
 ## Description
